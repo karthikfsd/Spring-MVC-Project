@@ -1,0 +1,1 @@
+This project is a simple Spring MVC web application that demonstrates the core features of the Spring MVC framework. It includes a basic structure with controllers, views, and model handling. The application serves as a foundation for learning or extending Spring MVC features.
